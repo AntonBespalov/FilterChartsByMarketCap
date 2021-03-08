@@ -1,0 +1,2 @@
+python filterChartsMarketCap.py
+pause()
